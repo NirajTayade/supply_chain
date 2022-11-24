@@ -22,7 +22,6 @@ Blockchain has the potential to drive cost-saving efficiencies and to enhance th
 
 # Substrate Node Template
 
-
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
 
 ## Getting Started
